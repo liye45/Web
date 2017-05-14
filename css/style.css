@@ -1,0 +1,11 @@
+body{font-size: 12px;
+font-family: Arial
+color:	#C0C0C0;
+line-height: 2em;}
+a{color: #727272 ;}
+a:link{text-decoration: none;}
+a:hover{text-decoration: underline;}
+#bluep{font-size: 14px;color: #b9f605;font-weight: bold;}
+#i{hover{text-decoration:none;color: #b9f605; }}
+#j{color:#fdb306;}
+
