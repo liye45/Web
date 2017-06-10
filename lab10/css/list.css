@@ -44,7 +44,7 @@ body{
 		#sousuo{width: 44px;
 			height: 21px;
 			background-color: #000;
-			font-style: #fff;
+			color: #fff;
 			border: 1px solid #f8f5ee;}
 		.nav_search{float: right;}
 #footer{
@@ -55,7 +55,7 @@ body{
 		margin:auto;}
 #yi{ width: 200px;
 	background:url(../images/bg.png);
-	margin-bottom: 30px 
+	margin-bottom: 30px ;
 background-repeat: no-repeat;
  }
 #yi ul{text-align:center; }
