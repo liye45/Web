@@ -1,0 +1,59 @@
+*{margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	border: none;
+	font-family: '宋体';}
+body{
+		font-size: 15px;
+		color: #522a06;
+		font-family: '宋体';
+		background: url(../images4/bodybg.gif);
+		position: center;
+		background-repeat: repeat-x;
+	}	
+	img{border: none;}
+	ul{list-style: none;}
+	a{text-decoration:none; }
+	a:link{color: #522a06;}
+	a：hover{text-decoration: underline;}
+#header{background-image: url(../images4/bei.jpg);
+	height: 205px;
+	background-repeat:repeat;
+	background-position: center;
+	}
+	#banner{width: 1000px;
+		height: 164px;
+		margin: 0 auto;
+		position: center;
+	}
+	#nav{height: 40px;
+		background-color: yellow;
+		width: 1000px;}
+		.nav_body{width: 1000px;
+			margin: 0 auto}
+		.nav_content{width: 800px;
+			font-weight:bold;
+			color: #fff;}
+		.nav_content a{line-height: 40px;} a:hover{text-decoration: none;color: #f9f603;}
+		.nav_search{float: right;}
+		.caochang{height: 200px;
+			width: 200px;
+			margin: 10px;}
+#content{width: 1000px;
+			border: solid 2px blue;
+			background: url(../images4/ji.jpg); }
+	#right{float: right;
+		border: solid 1px yellow;
+		margin: 3px;}
+		#top{background: url(../images4/yezi2.png);
+			background-repeat: no-repeat;
+			float: right;}
+		   #footer{
+		width: 1000px;
+		height: 105px;
+		float: left;
+		background: url(images4/foot.gif);
+		margin:auto;
+		text-align: center;}

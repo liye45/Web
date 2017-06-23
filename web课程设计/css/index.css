@@ -1,0 +1,115 @@
+*{margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	border: none;
+	font-family: '宋体';}
+body{
+		font-size: 15px;
+		color: #522a06;
+		font-family: '宋体';
+		background: url(../images4/bodybg.gif);
+		position: center;
+		background-repeat: repeat-x;
+	}	
+	img{border: none;}
+	ul{list-style: none;}
+	a{text-decoration:none; }
+	a:link{color: #522a06;}
+	a：hover{text-decoration: underline;}
+#header{background-image: url(../images4/bei.jpg);
+	height: 205px;
+	background-repeat:repeat;
+	background-position: center;
+	}
+	#banner{width: 1000px;
+		height: 164px;
+		margin: 0 auto;
+		position: center;
+	}
+	#nav{height: 40px;
+		background-color: yellow;
+		width: 1000px;}
+		.nav_body{width: 1000px;
+			margin: 0 auto}
+		.nav_content{width: 800px;
+			font-weight:bold;
+			color: #fff;}
+		.nav_content a{line-height: 40px;} a:hover{text-decoration: none;color: #f9f603;}
+		.nav_search{float: right;}
+		.caochang{height: 200px;
+			width: 200px;
+			margin: 10px;}
+		#content{width: 1000px;
+			overflow: hidden;}
+		#content_left{background: url(../images4/news_bg.gif);
+			width: 500px;
+			float: left;}
+			.zai{width: 200px;
+				height: 200px;}
+			#content_right{
+				background: url(../images4/news_bg.gif);
+				background-repeat: no-repeat;
+				width: 450px;
+				margin: 20px;
+				float: right;
+			}
+			#taiyang{width: 50px;
+				height: 50px;
+				background: repeat-x;s
+				}
+			#right{
+				background: url(../images4/ji.jpg);
+				background-repeat: no-repeat;
+
+			}
+			#right a:link{text-decoration: underline;
+				color: 	#4B0091;}
+		div.image
+        {
+            margin:3px;
+            border:1px solid #bebebe;
+            height:auto;
+            width:auto;
+            float:left;
+            text-align:center;
+            opacity: 0.5;
+        }
+        div.image:hover
+        {
+            opacity: 1.0;
+        }
+                div.imgage img
+        {
+            display:inline;
+            margin:3px;
+            border:1px solid #bebebe;
+            width: 200px;
+            height: 160px;
+        }
+        div.imgage a:hover img
+        {
+            border:1px solid #333333;
+        }
+        div.desc
+        {
+            text-align:center;
+            font-weight:normal;
+            width:200px;
+            font-size:12px;
+            margin:10px 5px 10px 5px;
+        }
+        #footer{
+		width: 1000px;
+		height: 105px;
+		float: left;
+		background: url(images4/foot.gif);
+		margin:auto;
+		text-align: center;}
+		#yishu{width: 1000px;
+			position: center}
+		#juzi{background: url(../images4/ji.jpg);
+			position: center;
+			width: 1000px;
+			border: solid 2px blue;}
